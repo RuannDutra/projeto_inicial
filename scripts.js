@@ -10,4 +10,4 @@ function alertar(event){
     if(resultado = 0){
         alert("Esse numero é par!");
     }
-}
+} 
